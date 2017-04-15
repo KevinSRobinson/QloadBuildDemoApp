@@ -1,0 +1,14 @@
+C:\Source\DemoApp\DemoApp\DemoApp\bin\Debug\DemoApp.exe.config
+C:\Source\DemoApp\DemoApp\DemoApp\bin\Debug\DemoApp.exe.manifest
+C:\Source\DemoApp\DemoApp\DemoApp\bin\Debug\DemoApp.application
+C:\Source\DemoApp\DemoApp\DemoApp\bin\Debug\DemoApp.exe
+C:\Source\DemoApp\DemoApp\DemoApp\bin\Debug\DemoApp.pdb
+C:\Source\DemoApp\DemoApp\DemoApp\bin\Debug\DemoApp.xml
+C:\Source\DemoApp\DemoApp\DemoApp\obj\Debug\DemoApp.vbprojResolveAssemblyReference.cache
+C:\Source\DemoApp\DemoApp\DemoApp\obj\Debug\DemoApp.Resources.resources
+C:\Source\DemoApp\DemoApp\DemoApp\obj\Debug\DemoApp.vbproj.GenerateResource.Cache
+C:\Source\DemoApp\DemoApp\DemoApp\obj\Debug\DemoApp.exe.manifest
+C:\Source\DemoApp\DemoApp\DemoApp\obj\Debug\DemoApp.application
+C:\Source\DemoApp\DemoApp\DemoApp\obj\Debug\DemoApp.exe
+C:\Source\DemoApp\DemoApp\DemoApp\obj\Debug\DemoApp.xml
+C:\Source\DemoApp\DemoApp\DemoApp\obj\Debug\DemoApp.pdb
